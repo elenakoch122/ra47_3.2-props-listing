@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/prw36mxq5d9uotxv?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-3-2-props-listing)
+
 GitHub Pages:  https://elenakoch122.github.io/ra47_3.2-props-listing
 
 Список предложений
